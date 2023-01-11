@@ -1,6 +1,6 @@
 # Workshops
-BDSS 2021/22 Workshops,
-Taught fortnightly throughout my 2nd year at Bristol,
+BDSS Workshops,
+Taught fortnightly (ish) throughout my 2nd and 3rd year at Bristol,
 Topics include:
 - Data cleaning
 - Data visualisation
